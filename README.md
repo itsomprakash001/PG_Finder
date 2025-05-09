@@ -1,22 +1,16 @@
 PG-Finder
-License: MIT Node Version Languages Count
-
 Welcome to PG-Finder - Your Ultimate Solution for Finding Paying Guest Accommodations!.
-
 Installation
 1.Clone the repository:
-git clone https://github.com/vishalyadav0987/PG-Finder.git
+git clone https://github.com/itsomprakash001/PG_Finder.git
 cd cd PG-Finder
 2.install backend dependencies:
-
 cd server
 npm install
 3.Install frontend dependencies:
-
 cd ../frontend/pg-frontend
 npm install
 4.Start the development servers:
-
 --Backend server:
    cd ../server
    npm start
