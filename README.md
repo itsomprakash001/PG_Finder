@@ -3,9 +3,11 @@ PG-Finder
 Welcome to PG-Finder--Your Ultimate Solution for Finding Paying Guest Accommodations!.
 
 Installation
+
 1.Clone the repository:
 git clone https://github.com/itsomprakash001/PG_Finder.git
 cd cd PG-Finder
+
 2.install backend dependencies:
 cd server
 npm install
