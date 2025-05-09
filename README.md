@@ -25,7 +25,8 @@ npm install
    npm run dev
 
 Usage
-  1.Open your browser and navigate to http://localhost:5173 to access the frontend.
+
+ 1.Open your browser and navigate to http://localhost:5173 to access the frontend.
   2.Use Postman or any API client to interact with the backend via http://localhost:3000.
 
 Features
