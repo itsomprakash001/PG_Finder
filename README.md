@@ -27,7 +27,8 @@ npm install
 Usage
 
  1.Open your browser and navigate to http://localhost:5173 to access the frontend.
-  2.Use Postman or any API client to interact with the backend via http://localhost:3000.
+ 
+ 2.Use Postman or any API client to interact with the backend via http://localhost:3000.
 
 Features
 >Property Listing: List your properties with ease, including details like location, amenities, and pricing.
