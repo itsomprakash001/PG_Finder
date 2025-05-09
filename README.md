@@ -1,5 +1,7 @@
 PG-Finder
-Welcome to PG-Finder - Your Ultimate Solution for Finding Paying Guest Accommodations!.
+
+Welcome to PG-Finder--Your Ultimate Solution for Finding Paying Guest Accommodations!.
+
 Installation
 1.Clone the repository:
 git clone https://github.com/itsomprakash001/PG_Finder.git
