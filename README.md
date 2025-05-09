@@ -11,9 +11,11 @@ cd cd PG-Finder
 2.install backend dependencies:
 cd server
 npm install
+
 3.Install frontend dependencies:
 cd ../frontend/pg-frontend
 npm install
+
 4.Start the development servers:
 --Backend server:
    cd ../server
