@@ -92,7 +92,7 @@
 
 ## Contact
 
-- For any inquiries or feedback, please contact [vishalyadav0987@gmail.com].
+- For any inquiries or feedback, please contact [op.omprakash9333@gmail.com].
 
 
 
